@@ -10,6 +10,7 @@
 - 🚀 Problem solver
 
 - 👨‍💻 All of my projects are available at [https://github.com/RAJATKUMARSINGH527?tab=repositories](https://github.com/RAJATKUMARSINGH527?tab=repositories)
+- 👨‍💻 My Portfolio link to see more details [https://github.com/RAJATKUMARSINGH527?tab=repositories](https://rajatkumarsingh257-portfolio.netlify.app/)
 
 - 📫 Reach out to me on *rajatkumarsingh257@gmail.com*
 
@@ -30,7 +31,16 @@
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![Javascript](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0082C9?style=flat)
+- ![Django](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![React](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![Redux](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![Node](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![Express](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 
 ## Tools
 - ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
