@@ -10,7 +10,7 @@
 - 🚀 Problem solver
 
 - 👨‍💻 All of my projects are available at [https://github.com/RAJATKUMARSINGH527?tab=repositories](https://github.com/RAJATKUMARSINGH527?tab=repositories)
-- 👨‍💻 My Portfolio link to see more details [https://github.com/RAJATKUMARSINGH527?tab=repositories](https://rajatkumarsingh257-portfolio.netlify.app/)
+- 👨‍💻 My Portfolio link to see more details [https://rajatkumarsingh257-portfolio.netlify.app/](https://rajatkumarsingh257-portfolio.netlify.app/)
 
 - 📫 Reach out to me on *rajatkumarsingh257@gmail.com*
 
